@@ -1,3 +1,6 @@
+# contributeur
+- # GHISLAIN MUNDEKE KASEREKA
+- # KASEREKA KIPOSO MARC
 # Chat App Python (Client/Serveur chiffré)
 
 Application de messagerie temps réel en Python avec:
